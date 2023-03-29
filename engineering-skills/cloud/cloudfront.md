@@ -1,6 +1,6 @@
-# Use Cloudfront in a Serverless Architecture to Host Websites 🔗 💻 🌐
+# Use Cloudfront in a Serverless Architecture to Host Websites 💻 🌐
 
-## Pre Requuisites 
+## Pre Requisites ✋
 
 1. Understanding of CDN concepts: You should have a good understanding of how CDNs work and their benefits, including caching, load balancing, and reduced latency.
 
