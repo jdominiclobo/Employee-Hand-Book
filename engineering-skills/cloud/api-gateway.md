@@ -1,4 +1,4 @@
-# Build and Secure APIs with AWS API Gateway 🚀
+# Build APIs with AWS API Gateway 🚀
 
 ## Pre Requisites ✋
 
