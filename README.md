@@ -1,5 +1,10 @@
 # Employee Hand Book
 
+## PR Template
+- [Feature To Dev Branches](/pr-templates/feature-dev-branches.md)
+- [Dev To Stage Branches](/pr-templates/dev-stage-branches.md)
+- [Stage To Production Branches](/pr-templates/stage-production-branches.md)
+
 ## Engineering Skills
 
 ### Backend
