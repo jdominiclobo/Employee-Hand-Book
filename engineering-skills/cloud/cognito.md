@@ -25,6 +25,9 @@
 5. Implement Cognito best practices:
    - Understand security considerations for user authentication and authorization.
    - Understand how to use AWS security services in conjunction with Cognito.
+6. Create / Update / Delete Cognito via IaC.
+7. Integrate with Social Sign In.
+8. Integrating all lambda triggers provided by Cognito.
 
 ## Resources 📚
 
