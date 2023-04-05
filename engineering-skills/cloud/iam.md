@@ -19,8 +19,9 @@
    - Create and manage IAM policies.
    - Implement permission boundaries.
 4. Implement IAM policies for secure resource access:
-   - Implement IAM policies to secure access to resources.
-   - Understand and implement IAM roles for EC2 instances.
+   - Understand and implement IAM roles for AWS Services like Lambda, ECS, EC2.
+5. Assume Role and Sessions with STS
+6. Federated Access with AWS Identity Center or External SSO.
 
 ## Resources 📚
 
