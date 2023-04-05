@@ -13,4 +13,5 @@
 - [EC2](/engineering-skills/cloud/ec2.md)
 - [Cognito](/engineering-skills/cloud/cognito.md)
 - [SAM](/engineering-skills/cloud/sam.md)
+- [CDK](/engineering-skills/cloud/cdk.md)
 - [Amazon CloudFront - Securely deliver content with low latency and high transfer speeds](/engineering-skills/cloud/cloudfront.md)
