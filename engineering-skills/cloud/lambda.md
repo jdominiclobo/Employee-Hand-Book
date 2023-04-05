@@ -11,7 +11,13 @@
 1. Gain theoretical knowledge of AWS Lambda
    - Understand the key concepts of serverless computing.
    - Understand the main components of AWS Lambda, including functions, event sources, and permissions.
+   - Understanding Cold and Warm starts and Strategies to avoid Cold Starts
+   - Concurrency and provisioned Concurrency
+   - Lambda Permissions with IAM
 2. Able to create/modify/delete simple Lambda functions using the console, AWS CLI and CloudFormation.
+   - Modify Lambda Configuration
+   - Modify Code
+   - Create / Update Parameters
 3. Understand and implement Lambda event sources:
    - S3 events.
    - Kinesis streams.
@@ -31,6 +37,8 @@
 7. Understand and implement Lambda function optimization:
    - Use the AWS X-Ray service to troubleshoot and optimize Lambda function performance.
    - Use Lambda Layers to share code and dependencies between Lambda functions.
+8. Lambda Performance Tuning
+9. Lambda Extensions
 
 ## Resources 📚
 
