@@ -14,9 +14,9 @@
 2. Able to create, view and manage CloudWatch metrics and alarms
    - Create CloudWatch metrics and alarms.
    - Monitor and visualize the metrics data using CloudWatch Dashboards.
+   - Create and Manage them via IaC.
 3. Able to implement AWS CloudWatch Logs
    - Understand the concept of CloudWatch Logs.
-   - Learn how to install and configure CloudWatch Logs agent on EC2 instances.
    - Create CloudWatch Log Groups and Log Streams.
    - Monitor and troubleshoot logs using CloudWatch Logs Insights.
 4. Understand AWS CloudWatch Events
@@ -26,6 +26,7 @@
 5. Best practices and troubleshooting
    - Learn about best practices for CloudWatch.
    - Understand how to troubleshoot common issues.
+6. Create and Manage CloudWatch Subscription Filters through IaC.
 
 ## Resources 📚
 
