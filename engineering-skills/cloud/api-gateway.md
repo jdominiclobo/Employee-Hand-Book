@@ -23,6 +23,8 @@
    - Lambda authorizers.
 6. Implement API Gateway logging and monitoring using CloudWatch.
 7. Troubleshooting through API Gateway logs and metrics.
+8. Integration with services like SNS, Step functions.
+9. Create Request and Response Template using VTL.
 
 ## Resources 📚
 
