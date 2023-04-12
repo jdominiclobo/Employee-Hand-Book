@@ -6,4 +6,4 @@
 
 ### [PR Templates](./pr-templates/)
 
-### [Code Merge Process](/branching-101/code-merge-process.md)
+### [Code Merge Process](/git-101/code-merge-process.md)
