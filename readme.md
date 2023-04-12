@@ -1,15 +1,15 @@
 # Employee Hand Book
 
-## Branching 101
+## Git 101
 
-### [Branch Naming Conventions](/branching-101/branch-naming-convention.md)
+### [Branch Naming Conventions](/git-101/branch-naming-convention.md)
 
-### [Branch Protection Rules](/branching-101/branch-rules.md)
+### [Branch Protection Rules](/git-101/branch-rules.md)
 
-### [PR Templates](/branching-101/pr-templates/)
+### [PR Templates](/git-101/pr-templates/)
 
-### [Code Merge Process](/branching-101/code-merge-process.md)
+### [Code Merge Process](/git-101/code-merge-process.md)
 
 ## Engineering Skills
 
-### [Cloud Skillset](/engineering-skills/cloud/) 
+### [Cloud Skillset](/engineering-skills/cloud/)
